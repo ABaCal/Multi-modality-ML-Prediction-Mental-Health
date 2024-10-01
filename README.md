@@ -8,5 +8,5 @@ Feature Selection: Using Recursive Feature Elimination (RFE).
 Regression Modeling: OLS and Random Forest models with cross-validation.
 Multi-Modal Model Construction: Early and Late Fusion strategies for combining multi-modal data.
 
-![Early Fusion](figures/early_fusion.png)
-![Late Fusion](figures/late_fusion.png)
+![Early Fusion](Early fusion.drawio.png)
+![Late Fusion](Diagrama sin título.drawio.png)
