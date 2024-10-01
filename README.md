@@ -9,6 +9,10 @@ This repository contains example scripts used in the master thesis: "Multi-Modal
 - **Multi-Modal Model Construction**: Early and Late Fusion strategies for combining multi-modal data.
 
 
+**Early fusion**
+
 ![Early Fusion](https://github.com/ABaCal/Multi-modality-ML-Prediction-Mental-Health/blob/main/Early%20fusion.drawio.png)
+
+**Late fusion**
 
 ![Late Fusion](https://github.com/ABaCal/Multi-modality-ML-Prediction-Mental-Health/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
